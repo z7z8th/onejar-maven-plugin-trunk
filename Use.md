@@ -1,0 +1,1 @@
+For instructions, please see http://onejar-maven-plugin.googlecode.com/svn/mavensite/usage.html
